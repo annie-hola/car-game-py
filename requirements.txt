@@ -1,3 +1,4 @@
 certifi==2021.10.8
 pygame==2.1.2
+python===3.9
 wincertstore==0.2
